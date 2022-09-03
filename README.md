@@ -2,8 +2,9 @@
 <h3 align="center">A passionate frontend developer from China</h3>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangCazz&theme=light)](https://git.io/streak-stats)
 [![YangCazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangCazz)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangCazz&theme=light)](https://git.io/streak-stats)
+
 
 
 

@@ -24,5 +24,5 @@
 ![](https://img.shields.io/badge/%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F-GNN-brightgreen)
 ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-Pytorch-yellowgreen)
 <div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=YangCazz&left_color=green&right_color=red"> </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YangCazz&left_color=green&right_color=red)
+
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=这世界那么多人;致敬奋斗路上劈星斩月的你!&center=true&size=27"> </h1>

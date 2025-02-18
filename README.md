@@ -3,8 +3,8 @@
 
 
 [![YangCazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangCazz)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangCazz&theme=light)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YangCazz)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YangCazz&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 

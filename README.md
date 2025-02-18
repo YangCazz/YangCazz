@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">Connect with me:785125238@qq.com</h3>
+<h3 align="left">Connect with me:yangcraz@qq.com</h3>
 <p align="left">
 </p>
 
@@ -21,6 +21,7 @@
 
 [![YangCazz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![YangCazz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangCazz)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://img.shields.io/badge/%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F-GNN-brightgreen)
 ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-Pytorch-yellowgreen)

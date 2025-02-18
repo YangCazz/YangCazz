@@ -4,7 +4,7 @@
 
 [![YangCazz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangCazz)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YangCazz&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YangCazz&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 

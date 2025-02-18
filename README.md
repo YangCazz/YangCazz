@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-[![YangCazz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![YangCazz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://img.shields.io/badge/%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F-GNN-brightgreen)
 ![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-Pytorch-yellowgreen)

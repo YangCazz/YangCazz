@@ -2,49 +2,30 @@
 
 # 👋 Hi, I'm YangCazz
 
-**热爱前端的开发者 · 来自中国**
+**医疗机器人算法工程师 · 医学图像处理 · 深度学习**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=这世界那么多人%F0%9F%8C%9F;致敬奋斗路上劈星斩月的你!%F0%9F%8C%9C)](https://git.io/typing-svg)
-
----
-
-### 📊 GitHub 数据
-
-<img src="https://github-readme-stats.vercel.app/api?username=YangCazz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangCazz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Langs" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=YangCazz&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" height="165"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=58A6FF&center=true&width=420&lines=这世界那么多人;致敬奋斗路上劈星斩月的你!)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ 技术栈与兴趣
+### 📊 数据
 
-![](https://img.shields.io/badge/研究领域-GNN-brightgreen?style=flat-square)
-![](https://img.shields.io/badge/开发工具-PyTorch-ee4c2c?style=flat-square&logo=pytorch)
-![](https://img.shields.io/badge/语言-Python-3776ab?style=flat-square&logo=python)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" title="PyTorch"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YangCazz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165"/> &nbsp; <img src="https://streak-stats.demolab.com?user=YangCazz&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" height="165"/>
 
 ---
 
-### 📈 贡献活动
+### 🛠️ 技术
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" alt="Activity Graph" width="100%"/>
+![](https://img.shields.io/badge/研究-GNN-brightgreen?style=flat-square) ![](https://img.shields.io/badge/开发-PyTorch-ee4c2c?style=flat-square&logo=pytorch) ![](https://img.shields.io/badge/语言-Python-3776ab?style=flat-square&logo=python)
 
----
-
-### 📬 联系我
-
-[![Email](https://img.shields.io/badge/Email-yangcraz%40qq.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yangcraz@qq.com)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YangCazz.YangCazz&style=flat-square&color=58a6ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff" width="100%"/>
 
 ---
 
-<sub>⭐ 感谢你的来访</sub>
+### 📬 联系
+
+[![博客](https://img.shields.io/badge/博客-YangCazz.github.io-0d1117?style=flat-square&logo=github)](https://yangcazz.github.io) [![Email](https://img.shields.io/badge/Email-yangcraz%40qq.com-ea4335?style=flat-square&logo=gmail)](mailto:yangcraz@qq.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-YangCazz-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YangCazz)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YangCazz.YangCazz&color=58a6ff)
 
 </div>

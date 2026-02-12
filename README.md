@@ -10,6 +10,12 @@
 
 ### 📊 数据
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YangCazz/YangCazz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YangCazz/YangCazz/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="contribution-snake" src="https://cdn.jsdelivr.net/gh/YangCazz/YangCazz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <img src="https://streak-stats.demolab.com?user=YangCazz&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" height="165"/>
 
 ---

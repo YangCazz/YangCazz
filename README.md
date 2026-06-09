@@ -69,7 +69,11 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [CazzKB 升级实录：DeepSeek-GUI 设计系统、会话管理与工程打磨](https://yangcazz.github.io/2026/06/09/cazzkb-gui-upgrade/)
+- [从原型到生产：RAG 工程化实战与 CazzKB 架构设计](https://yangcazz.github.io/2026/06/08/rag-engineering-production-cazzkb/)
+- [RAG 核心引擎深度解析：分块、混合检索引擎与重排序](https://yangcazz.github.io/2026/06/08/rag-core-engine-chunking-hybrid-rerank/)
+- [RAG 技术演进全景：从朴素检索到智能体驱动](https://yangcazz.github.io/2026/06/07/rag-evolution-panorama/)
+- [拆解 GSAP Skills 生态：当动画库作者开始为 AI Agent 写操作手册](https://yangcazz.github.io/2026/06/06/gsap-skills-ecosystem-analysis/)<!-- BLOG-POST-LIST:END -->
 
 ### Contact
 

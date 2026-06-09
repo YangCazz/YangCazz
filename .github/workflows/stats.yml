@@ -19,7 +19,7 @@ jobs:
         run: |
           mkdir -p stats
           curl -sS --retry 3 --retry-delay 5 \
-            "https://github-readme-stats.vercel.app/api?username=YangCazz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&rank_icon=github&ring_color=79c0ff" \
+            "https://github-readme-stats.vercel.app/api?username=YangCazz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" \
             -o stats/stats.svg
           curl -sS --retry 3 --retry-delay 5 \
             "https://github-readme-stats.vercel.app/api/top-langs?username=YangCazz&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" \
@@ -27,6 +27,8 @@ jobs:
           curl -sS --retry 3 --retry-delay 5 \
             "https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff" \
             -o stats/activity-graph.svg
+          head -1 stats/stats.svg | grep -q '<svg' || { echo "Invalid stats.svg"; cat stats/stats.svg; exit 1; }
+          head -1 stats/top-langs.svg | grep -q '<svg' || { echo "Invalid top-langs.svg"; cat stats/top-langs.svg; exit 1; }
 
       - name: Commit stats
         run: |

@@ -16,34 +16,34 @@
 
 ### Tech Stack
 
-<table>
-<tr><td width="100"><b>Languages</b></td><td>
+<table width="100%">
+<tr><td><b>Languages</b></td><td>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </td></tr>
-<tr><td width="100"><b>Deep Learning</b></td><td>
+<tr><td><b>Deep Learning</b></td><td>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/MONAI-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </td></tr>
-<tr><td width="100"><b>GNN & Graphs</b></td><td>
+<tr><td><b>GNN & Graphs</b></td><td>
   <img src="https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pyg&logoColor=white" />
   <img src="https://img.shields.io/badge/DGL-00B4D8?style=flat-square" />
   <img src="https://img.shields.io/badge/NetworkX-2C3E50?style=flat-square&logo=python&logoColor=white" />
 </td></tr>
-<tr><td width="100"><b>Medical Imaging</b></td><td>
+<tr><td><b>Medical Imaging</b></td><td>
   <img src="https://img.shields.io/badge/ITK-00599C?style=flat-square" />
   <img src="https://img.shields.io/badge/SimpleITK-2C3E50?style=flat-square" />
   <img src="https://img.shields.io/badge/DICOM-3776AB?style=flat-square" />
   <img src="https://img.shields.io/badge/NIfTI-2C3E50?style=flat-square" />
 </td></tr>
-<tr><td width="100"><b>Tools & DevOps</b></td><td>
+<tr><td><b>Tools & DevOps</b></td><td>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </td></tr>
-<tr><td width="100"><b>Research</b></td><td>
+<tr><td><b>Research</b></td><td>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/W&B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />

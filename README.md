@@ -96,3 +96,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YangCazz-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YangCazz)
 
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YangCazz/YangCazz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YangCazz/YangCazz/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://cdn.jsdelivr.net/gh/YangCazz/YangCazz/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>

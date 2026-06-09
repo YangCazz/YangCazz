@@ -54,15 +54,13 @@
 
 <div align="center">
 
-![Stats](stats/stats.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=YangCazz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" height="165"/>
 &nbsp;
-![Top Langs](stats/top-langs.svg)
+<img src="https://streak-stats.demolab.com?user=YangCazz&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" height="165"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YangCazz&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
 
-<div align="center">
-
-![Activity Graph](stats/activity-graph.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff" width="100%"/>
 
 </div>
 

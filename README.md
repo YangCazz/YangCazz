@@ -63,11 +63,11 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [策展、内化、模块化、进化：一套 AI 项目管理的反碎片化方法论](https://yangcazz.github.io/2026/06/10/meta-loop-methodology/)
-- [CazzKB 升级实录：DeepSeek-GUI 设计系统、会话管理与工程打磨](https://yangcazz.github.io/2026/06/09/cazzkb-gui-upgrade/)
-- [从原型到生产：RAG 工程化实战与 CazzKB 架构设计](https://yangcazz.github.io/2026/06/08/rag-engineering-production-cazzkb/)
-- [RAG 核心引擎深度解析：分块、混合检索引擎与重排序](https://yangcazz.github.io/2026/06/08/rag-core-engine-chunking-hybrid-rerank/)
-- [RAG 技术演进全景：从朴素检索到智能体驱动](https://yangcazz.github.io/2026/06/07/rag-evolution-panorama/)<!-- BLOG-POST-LIST:END -->
+- [Agent 认知架构的下一个基础设施：世界模型作为推理引擎、规划基座与安全护栏](https://yangcazz.github.io/2026/06/24/agent-cognitive-architecture-world-model/)
+- [LLM 是否拥有世界模型：从 Othello-GPT 到认知科学的深度论争](https://yangcazz.github.io/2026/06/23/llm-world-model-debate/)
+- [生成式世界模拟器：Sora、Genie 与视频模型能否成为世界的引擎](https://yangcazz.github.io/2026/06/22/video-generation-world-simulators/)
+- [从梦境到现实：World Models 到 DreamerV3 的技术演进全解](https://yangcazz.github.io/2026/06/21/world-models-dreamer-evolution/)
+- [策展、内化、模块化、进化：一套 AI 项目管理的反碎片化方法论](https://yangcazz.github.io/2026/06/10/meta-loop-methodology/)<!-- BLOG-POST-LIST:END -->
 
 ### Contact
 

@@ -63,11 +63,11 @@
 ### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [持续学习 &lpar;Continual Learning&rpar; 全景:模型如何在不断变化的世界中边学边用](https://yangcazz.github.io/2026/08/02/continual-learning-comprehensive-guide/)
+- [当生成即理解遇到临床安全：生成式医学 AI 的信任鸿沟与可信路线图](https://yangcazz.github.io/2026/06/27/generative-medical-safety-trust-gap/)
+- [生成即理解：Vision Banana 范式将如何重塑 3D 医学影像](https://yangcazz.github.io/2026/06/26/medical-generalist-generation-understanding/)
 - [Vision Banana 深度解析：图像生成器何以成为通才视觉学习者](https://yangcazz.github.io/2026/06/25/vision-banana-image-generators-generalist-vision/)
-- [Agent 认知架构的下一个基础设施：世界模型作为推理引擎、规划基座与安全护栏](https://yangcazz.github.io/2026/06/24/agent-cognitive-architecture-world-model/)
-- [LLM 是否拥有世界模型：从 Othello-GPT 到认知科学的深度论争](https://yangcazz.github.io/2026/06/23/llm-world-model-debate/)
-- [生成式世界模拟器：Sora、Genie 与视频模型能否成为世界的引擎](https://yangcazz.github.io/2026/06/22/video-generation-world-simulators/)
-- [从梦境到现实：World Models 到 DreamerV3 的技术演进全解](https://yangcazz.github.io/2026/06/21/world-models-dreamer-evolution/)<!-- BLOG-POST-LIST:END -->
+- [Agent 认知架构的下一个基础设施：世界模型作为推理引擎、规划基座与安全护栏](https://yangcazz.github.io/2026/06/24/agent-cognitive-architecture-world-model/)<!-- BLOG-POST-LIST:END -->
 
 ### Contact
 

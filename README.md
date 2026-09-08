@@ -59,8 +59,6 @@ I publish long-form technical notes on medical AI, continual learning, generativ
 
 <img src="https://streak-stats.demolab.com?user=YangCazz&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" height="165" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YangCazz&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff" width="100%" alt="GitHub activity graph" />
-
 </div>
 
 ### Contact

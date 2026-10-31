@@ -46,11 +46,11 @@ I work on engineering systems that connect medical perception, decision-making, 
 I publish long-form technical notes on medical AI, continual learning, generative models, and practical engineering. The list below is automatically refreshed from my blog feed every 12 hours.
 
 <!-- BLOG-POST-LIST:START -->
+- [Super Agent 架构解读：从单次会话走向持续在线的协作者](https://yangcazz.github.io/2026/10/31/super-agent-continuous-event-driven-architecture/)
 - [类增量学习 &lpar;Class-Incremental Learning&rpar; 深入:最难的持续学习设定,与方法演进的五波浪潮](https://yangcazz.github.io/2026/08/03/class-incremental-learning-in-depth/)
 - [持续学习 &lpar;Continual Learning&rpar; 全景:模型如何在不断变化的世界中边学边用](https://yangcazz.github.io/2026/08/02/continual-learning-comprehensive-guide/)
 - [当生成即理解遇到临床安全：生成式医学 AI 的信任鸿沟与可信路线图](https://yangcazz.github.io/2026/06/27/generative-medical-safety-trust-gap/)
-- [生成即理解：Vision Banana 范式将如何重塑 3D 医学影像](https://yangcazz.github.io/2026/06/26/medical-generalist-generation-understanding/)
-- [Vision Banana 深度解析：图像生成器何以成为通才视觉学习者](https://yangcazz.github.io/2026/06/25/vision-banana-image-generators-generalist-vision/)<!-- BLOG-POST-LIST:END -->
+- [生成即理解：Vision Banana 范式将如何重塑 3D 医学影像](https://yangcazz.github.io/2026/06/26/medical-generalist-generation-understanding/)<!-- BLOG-POST-LIST:END -->
 
 ### Activity
 
